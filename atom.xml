@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alvinchan.github.io</id>
     <title>AlvinChan</title>
-    <updated>2019-09-20T19:49:37.073Z</updated>
+    <updated>2019-09-20T19:51:00.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alvinchan.github.io"/>
     <link rel="self" href="https://alvinchan.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://alvinchan.github.io/images/avatar.png</logo>
     <icon>https://alvinchan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, AlvinChan</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://alvinchan.github.io/post/test</id>
+        <link href="https://alvinchan.github.io/post/test">
+        </link>
+        <updated>2019-09-20T12:50:06.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://alvinchan.github.io/post-images/1569009027978.png" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://alvinchan.github.io/post/hello-gridea</id>
