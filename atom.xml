@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alvinchanga.github.io</id>
-    <title>AlvinChan</title>
-    <updated>2019-09-20T20:39:33.257Z</updated>
+    <title>Alvin Chan</title>
+    <updated>2019-09-20T21:33:06.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alvinchanga.github.io"/>
     <link rel="self" href="https://alvinchanga.github.io/atom.xml"/>
+    <subtitle>With a background in architecture and UX design, I am a cross-disciplinary designer skilled to solve problems with design thinking, understand users and meet their requirement with empathy, and deliver solutions across digital and physical worlds.</subtitle>
     <logo>https://alvinchanga.github.io/images/avatar.png</logo>
     <icon>https://alvinchanga.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, AlvinChan</rights>
+    <rights>All rights reserved 2019, Alvin Chan</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://alvinchanga.github.io/post/test</id>
