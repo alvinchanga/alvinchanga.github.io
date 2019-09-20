@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alvinchan.github.io</id>
+    <id>http://alvinchan.github.io</id>
     <title>AlvinChan</title>
-    <updated>2019-09-20T20:12:05.826Z</updated>
+    <updated>2019-09-20T20:12:20.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://alvinchan.github.io"/>
-    <link rel="self" href="https://alvinchan.github.io/atom.xml"/>
-    <logo>https://alvinchan.github.io/images/avatar.png</logo>
-    <icon>https://alvinchan.github.io/favicon.ico</icon>
+    <link rel="alternate" href="http://alvinchan.github.io"/>
+    <link rel="self" href="http://alvinchan.github.io/atom.xml"/>
+    <logo>http://alvinchan.github.io/images/avatar.png</logo>
+    <icon>http://alvinchan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, AlvinChan</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://alvinchan.github.io/post/test</id>
-        <link href="https://alvinchan.github.io/post/test">
+        <id>http://alvinchan.github.io/post/test</id>
+        <link href="http://alvinchan.github.io/post/test">
         </link>
         <updated>2019-09-20T12:50:06.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://alvinchan.github.io/post-images/1569009027978.png" alt=""></p>
+        <content type="html"><![CDATA[<p><img src="http://alvinchan.github.io/post-images/1569009027978.png" alt=""></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://alvinchan.github.io/post/hello-gridea</id>
-        <link href="https://alvinchan.github.io/post/hello-gridea">
+        <id>http://alvinchan.github.io/post/hello-gridea</id>
+        <link href="http://alvinchan.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
